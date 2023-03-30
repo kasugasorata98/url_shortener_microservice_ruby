@@ -1,0 +1,8 @@
+development:
+  host: armadillo.rmq.cloudamqp.com
+  port: 5672
+  username: affbqode
+  password: C8qzkuoQr4k_PgbYu16PWLi8Eetn59eU
+  vhost: affbqode
+  tls: false
+  ssl_verify_peer: false
